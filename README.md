@@ -1,6 +1,6 @@
 ### Reach out! (unless I owe you money 🫡)
 
-![](https://dcbadge.vercel.app/api/shield/150204945935761417)
+![](https://dcbadge.vercel.app/api/shield/150204945935761417?style=flat)
 
 <!--
 **about-hector/about-hector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
